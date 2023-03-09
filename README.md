@@ -1,2 +1,2 @@
-# GIGSC_2023
+# GICSC_2023
 Labs
